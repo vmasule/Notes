@@ -5,4 +5,5 @@
   * String number = `Number(strNo)`
 3. In JS `obj.a = obj["a"]` 
 4. == is loose equals and === is strict equals
-5. `null(Bug it show as Object) and undefined` are built in types in JS while `symbol` is a new type in ES6. one can use `typeof` operator to check/verify type.
+5. `null and undefined` are built in types in JS while `symbol` is a new type in ES6. one can use `typeof` operator to check/verify type.
+* `typeof nuul` returns object which is sort of bug in JS.
