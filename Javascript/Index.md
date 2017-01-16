@@ -3,4 +3,6 @@
 1. prompt('msg') is used to ask for input.
 2. In JS variable conversion is called coercion where :
   * String number = `Number(strNo)`
-  
+3. In JS obj.a = obj["a"] 
+4. == is loose equals and === is strict equals
+
