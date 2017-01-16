@@ -5,4 +5,4 @@
   * String number = `Number(strNo)`
 3. In JS `obj.a = obj["a"]` 
 4. == is loose equals and === is strict equals
-
+5. `null and undefined` are built in types in JS while `symbol` is a new type in ES6.
