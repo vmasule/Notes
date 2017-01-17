@@ -13,7 +13,9 @@ Overall it includes
 
 <dl>
 <dt>Modules</dt>
-<dd></dd>
+<dd>
+1. An Angular module, whether a root or feature, is a class with an @NgModule decorator.
+</dd>
 </dl>
 
 <dl>
